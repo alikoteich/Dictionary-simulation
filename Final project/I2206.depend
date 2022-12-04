@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1624026871 source:c:\users\ali koteich\desktop\c\i2206\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"functions.h"
+
+1624014850 c:\users\ali koteich\desktop\c\i2206\functions.h
+
+1624015121 source:c:\users\ali koteich\desktop\c\i2206\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"functions.h"
+
+1624195237 source:c:\users\ali koteich\desktop\i2206 project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"functions.h"
+
+1624183040 c:\users\ali koteich\desktop\i2206 project\final project\functions.h
+
+1624288271 source:c:\users\ali koteich\desktop\i2206 project\final project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"functions.h"
+

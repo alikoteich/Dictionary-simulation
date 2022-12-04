@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624015121 source:c:\users\ali koteich\desktop\i2206 project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"functions.h"
+
+1624014850 c:\users\ali koteich\desktop\i2206 project\final project\functions.h
+
