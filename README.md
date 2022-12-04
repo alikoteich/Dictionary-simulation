@@ -4,8 +4,7 @@
 
     • Access the folder named (Final Project).
     • double click the executable file named (I2206.exe)
-### Warning:If the program crashes on start, delete the fileNewDictionary.txt
-then rerun the program again !Thefolderalsocontainsfollowingfiles:
+### Warning:If the program crashes on start, delete the fileNewDictionary.txt then rerun the program again !Thefolderalsocontainsfollowingfiles:
     • “main.c”where our functions are called and user interface made,
     • “functions.c”where all the functions are implemented.
     • “functions.h”contains the header functionsand structs.
